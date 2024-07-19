@@ -57,7 +57,7 @@ During this internship, I developed a website for VILASITA, a construction and i
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/vilasita.git
+   git clone https://github.com/manansanghani69/vilasita.git
    cd vilasita
    ```
 
